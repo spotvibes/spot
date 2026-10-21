@@ -1,0 +1,2 @@
+API_BASE_URL = https:/$()/api.example.com
+WS_URL = wss:/$()/ws.example.com/ws

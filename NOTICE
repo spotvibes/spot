@@ -1,0 +1,11 @@
+End-to-end encrypted chat - third-party notices
+
+libsignal / LibSignalClient  (c) Signal Messenger, LLC   AGPL-3.0-only
+  https://github.com/signalapp/libsignal
+  Used for PQXDH, the Double Ratchet and Kyber key encapsulation.
+  This project is not affiliated with or endorsed by Signal.
+
+GRDB.swift  (c) Gwendal Roue   MIT   - local SQLite storage
+Kingfisher  (c) Wei Wang       MIT   - image loading (chat UI files)
+
+Apple CryptoKit / Security / Keychain are system frameworks.
